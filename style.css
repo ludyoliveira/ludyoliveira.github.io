@@ -69,3 +69,8 @@ font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
 
+.social a:hover{
+    color: aliceblue;
+    background-color: lightblue;
+}
+
