@@ -162,9 +162,10 @@ footer p{
     max-width: 250px; /* Limita a largura máxima da imagem a 250 pixels */
   }
 
-  /* Muda a cor de fundo da seção de início em telas menores (do cinza para #F4DECB) */
+  /* Muda a cor de fundo da seção de início em telas menores (do cinza para rgb(93, 118, 165)) */
   .inicio{
-      background-color: #F4DECB;
+      background-color: rgb(93, 118, 165)
+      ;
   }
 
   /* Reduz o espaçamento interno destas seções em telas menores */
