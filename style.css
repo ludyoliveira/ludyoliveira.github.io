@@ -121,7 +121,7 @@ footer p{
 /* Estilos para os títulos h2 dentro das seções "Sobre mim" e "Habilidades" */
 .sobre-mim h2, .habilidades h2 {
   font-size: 32px; /* Define o tamanho da fonte como 32 pixels */
-  color: rgb(187, 225, 255); /* Define a cor do texto como cinza */
+  color: rgb(93, 118, 165); /* Define a cor do texto como cinza */
   margin-bottom: 10px; /* Adiciona uma margem de 10 pixels abaixo do título */
 }
 
